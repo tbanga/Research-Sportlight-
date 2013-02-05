@@ -195,6 +195,7 @@ bkLib.onDomLoaded(function() {
                       <div>
                       <p style="background-color:#FFFF00">DISCUSSION</p>
                       <P stlle="background-color:#FFFF00">HEALTH</p>
+			
 			<span class="label success">DISCUSSION</span>
 			
 			<a name=""><span class="label notice">HEALTH</span></a>
@@ -214,6 +215,8 @@ bkLib.onDomLoaded(function() {
                     <div class="well" id="f3608a09d98b1e3e9bec6f3a7f008777">
 		    
                       <div>
+                       <p style="background-color:#FFFF00">DISCUSSION</p>
+                      <P stlle="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
 			<a name=""><span class="label notice">HEALTH</span></a>
 		      </div>
@@ -222,7 +225,7 @@ bkLib.onDomLoaded(function() {
 		    
 		    <small>
 		      
-                      <a href="/profile/Dan McGarry">
+                      <a href="/profile/Trevor Banga">
                         Trail posted by Trevor Banga</a> -
 		      
                       <a class="prettyDate" title="2013-01-21T14:35:30Z">2013-01-21T14:35:30Z</a>
@@ -232,6 +235,9 @@ bkLib.onDomLoaded(function() {
                     <div class="well" id="f3608a09d98b1e3e9bec6f3a7f00738e">
 		    
                       <div>
+                      <div>
+                       <p style="background-color:#FFFF00">DISCUSSION</p>
+                      <P stlle="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
 			<a name=""><span class="label notice">HEALTH</span></a>
 		      </div>
@@ -240,7 +246,7 @@ bkLib.onDomLoaded(function() {
 		    
 		    <small>
 		      
-                      <a href="/profile/Dan McGarry">
+                      <a href="/profile/Trevor Banga">
                         Trial posted by Trevor Banga</a> -
 		      
                       <a class="prettyDate" title="2013-01-21T14:16:36Z">2013-01-21T14:16:36Z</a>
@@ -250,15 +256,19 @@ bkLib.onDomLoaded(function() {
                     <div class="well" id="653fc482c4a0729182775f42a7010791">
 		    
                       <div>
+                      <div>
+                      <div>
+                       <p style="background-color:#FFFF00">DISCUSSION</p>
+                      <P stlle="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
 			<a name=""><span class="label notice">HEALTH</span></a>
 		      </div>
-                    Coolio!
+                   
                     <br />
 		    
 		    <small>
 		      
-                      <a href="/profile/Dan McGarry">
+                      <a href="/profile/Trevor Banga">
                         Trial posted by Trevor Banga</a> -
 		      
                       <a class="prettyDate" title="2013-01-17T17:19:58Z">2013-01-17T17:19:58Z</a>
@@ -268,6 +278,10 @@ bkLib.onDomLoaded(function() {
                     <div class="well" id="653fc482c4a0729182775f42a700eb87">
 		    
                       <div>
+                      <div>
+                      <div>
+                       <p style="background-color:#FFFF00">DISCUSSION</p>
+                      <P stlle="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
 			<a name=""><span class="label notice">HEALTH</span></a>
 		      </div>
@@ -276,7 +290,7 @@ bkLib.onDomLoaded(function() {
 		    
 		    <small>
 		      
-                      <a href="/profile/Dan McGarry">
+                      <a href="/profile/Trevor Banga">
                         Trial posted by Trevor Banga</a> -
 		      
                       <a class="prettyDate" title="2013-01-17T16:35:55Z">2013-01-17T16:35:55Z</a>

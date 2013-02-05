@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>HEALTH (Circle) </title>
+    <title>Research SpotLight (Circle) </title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -95,7 +95,7 @@
 <script type="text/javascript" src="/js/jquery.multiselect.min.js"></script>
 <script type="text/javascript">
     
-var circle_name = 'HEALTH';
+var circle_name = 'Research SpotLight';
 var user_id     = '7b2540fcebd1e8b627aa6f52f70001a2';
 
 var comment_holder;
@@ -193,6 +193,8 @@ bkLib.onDomLoaded(function() {
                     <div class="well" id="f3608a09d98b1e3e9bec6f3a7f009739">
 		    
                       <div>
+                      <p style="background-color:#FFFF00">DISCUSSION</p>
+                      <P stlle="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
 			
 			<a name=""><span class="label notice">HEALTH</span></a>

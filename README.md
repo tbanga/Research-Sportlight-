@@ -203,7 +203,7 @@ bkLib.onDomLoaded(function() {
 		    <small>
 		      
                       <a href="/profile/Dan McGarry">
-                        posted by Dan McGarry</a> -
+                        Trail posted by Dan Trevor banga</a> -
 		      
                       <a class="prettyDate" title="2013-01-21T15:40:11Z">2013-01-21T15:40:11Z</a>
                     </small>
@@ -221,7 +221,7 @@ bkLib.onDomLoaded(function() {
 		    <small>
 		      
                       <a href="/profile/Dan McGarry">
-                        posted by Dan McGarry</a> -
+                        Trail posted by Trevor Banga</a> -
 		      
                       <a class="prettyDate" title="2013-01-21T14:35:30Z">2013-01-21T14:35:30Z</a>
                     </small>
@@ -239,7 +239,7 @@ bkLib.onDomLoaded(function() {
 		    <small>
 		      
                       <a href="/profile/Dan McGarry">
-                        posted by Dan McGarry</a> -
+                        Trial posted by Trevor Banga</a> -
 		      
                       <a class="prettyDate" title="2013-01-21T14:16:36Z">2013-01-21T14:16:36Z</a>
                     </small>
@@ -257,7 +257,7 @@ bkLib.onDomLoaded(function() {
 		    <small>
 		      
                       <a href="/profile/Dan McGarry">
-                        posted by Dan McGarry</a> -
+                        Trial posted by Trevor Banga</a> -
 		      
                       <a class="prettyDate" title="2013-01-17T17:19:58Z">2013-01-17T17:19:58Z</a>
                     </small>
@@ -275,7 +275,7 @@ bkLib.onDomLoaded(function() {
 		    <small>
 		      
                       <a href="/profile/Dan McGarry">
-                        posted by Dan McGarry</a> -
+                        Trial posted by Trevor Banga</a> -
 		      
                       <a class="prettyDate" title="2013-01-17T16:35:55Z">2013-01-17T16:35:55Z</a>
                     </small>

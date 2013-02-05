@@ -259,7 +259,7 @@ bkLib.onDomLoaded(function() {
                       <div>
                       <div>
                        <p style="background-color:#FFFF00">DISCUSSION</p>
-                      <P stlle="background-color:#FFFF00">HEALTH</p>
+                      <P style="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
 			<a name=""><span class="label notice">HEALTH</span></a>
 		      </div>

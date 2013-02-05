@@ -202,8 +202,8 @@ bkLib.onDomLoaded(function() {
 		    
 		    <small>
 		      
-                      <a href="/profile/Dan McGarry">
-                        Trail posted by Dan Trevor banga</a> -
+                      <a href="/profile/Trevor Banga">
+                        Trail posted by Trevor Banga</a> -
 		      
                       <a class="prettyDate" title="2013-01-21T15:40:11Z">2013-01-21T15:40:11Z</a>
                     </small>

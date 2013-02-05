@@ -193,11 +193,9 @@ bkLib.onDomLoaded(function() {
                     <div class="well" id="f3608a09d98b1e3e9bec6f3a7f009739">
 		    
                       <div>
-                      <p style="background-color:#FFFF00">DISCUSSION</p>
-                      <P stlle="background-color:#FFFF00">HEALTH</p>
-			
+                      <p>style="background-color:#FFFF00">DISCUSSION</p>
+                      <P>stlle="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
-			
 			<a name=""><span class="label notice">HEALTH</span></a>
 		      </div>
                     <h1 itemprop="name headline  " style="margin-bottom: 2px; border-collapse: collapse; border-right-color: rgb(0, 97, 166); border-bottom-color: rgb(0, 97, 166); border-left-color: rgb(0, 97, 166); font-family: georgia, serif; font-weight: normal; font-size: 2.166em; line-height: 1.154; width: 460px; color: rgb(51, 51, 51); text-align: start; background-repeat: no-repeat no-repeat;">International development: big questions, small answers</h1><p itemprop="description" id="stand-first" class="stand-first-alone" data-component="comp : r2 : Article : standfirst_cta" style="padding-bottom: 34px; margin-bottom: 0px; border-collapse: collapse; font-family: arial, sans-serif; color: rgb(102, 102, 102); font-size: 1.333em; line-height: 1.25; width: 460px; background-repeat: no-repeat no-repeat;">In place of the searching global conversation we need, we have an anaesthetised debate</p>
@@ -215,8 +213,8 @@ bkLib.onDomLoaded(function() {
                     <div class="well" id="f3608a09d98b1e3e9bec6f3a7f008777">
 		    
                       <div>
-                       <p style="background-color:#FFFF00">DISCUSSION</p>
-                      <P stlle="background-color:#FFFF00">HEALTH</p>
+                       <p>style="background-color:#FFFF00">DISCUSSION</p>
+                      <P>stlle="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
 			<a name=""><span class="label notice">HEALTH</span></a>
 		      </div>
@@ -236,8 +234,8 @@ bkLib.onDomLoaded(function() {
 		    
                       <div>
                       <div>
-                       <p style="background-color:#FFFF00">DISCUSSION</p>
-                      <P stlle="background-color:#FFFF00">HEALTH</p>
+                       <p>style="background-color:#FFFF00">DISCUSSION</p>
+                      <P>stlle="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
 			<a name=""><span class="label notice">HEALTH</span></a>
 		      </div>
@@ -258,8 +256,8 @@ bkLib.onDomLoaded(function() {
                       <div>
                       <div>
                       <div>
-                       <p style="background-color:#FFFF00">DISCUSSION</p>
-                      <P style="background-color:#FFFF00">HEALTH</p>
+                       <p>style="background-color:#FFFF00">DISCUSSION</p>
+                      <P>style="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
 			<a name=""><span class="label notice">HEALTH</span></a>
 		      </div>
@@ -280,8 +278,8 @@ bkLib.onDomLoaded(function() {
                       <div>
                       <div>
                       <div>
-                       <p style="background-color:#FFFF00">DISCUSSION</p>
-                      <P stlle="background-color:#FFFF00">HEALTH</p>
+                       <p>style="background-color:#FFFF00">DISCUSSION</p>
+                      <P>stlle="background-color:#FFFF00">HEALTH</p>
 			<span class="label success">DISCUSSION</span>
 			<a name=""><span class="label notice">HEALTH</span></a>
 		      </div>
@@ -318,7 +316,7 @@ bkLib.onDomLoaded(function() {
             
             
         </div>
-    </div>
+    </div
 </div>
 
 <script type="text/javascript">

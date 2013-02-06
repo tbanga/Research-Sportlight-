@@ -28,17 +28,7 @@
     <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png">
     
 
-  </head>
-
-  <body>
-
-  </head>   <body id="article-3803" class="textes article">     <div id="access"><a href="#nav">Skip to navigation</a>&#160;&#8211; <a href="http://chinaperspectives.revues.org/?page=map">Site map</a></div><!-- #access -->     <div id="header">       <div id="language"><a href="http://perspectiveschinoises.revues.org/" xml:lang="fr" lang="fr">Perspectives Chinoises</a></div>       <h1 id="siteName"><a title="Home" href="http://chinaperspectives.revues.org">China perpectives</a></h1>     </div><!-- #header -->     <div id="breadcrumb">       <form action="http://chinaperspectives.revues.org/3803" method="get" class="autoSubmit">         <p>           <label for="selectLang">Choose language</label>           <select id="selectLang" name="lang">             <option value="en" title="English" selected="selected">English</option>             <option value="es" title="Español">Español</option>             <option value="fr" title="Français">Français</option>           </select>           <input type="submit" value="OK" class="hidden" />         </p>       </form>       <p id="crumbs"><a class="home" href="index.html">Home</a><span class="separator"> &#62; </span><a href="2">Numéros</a><span class="separator"> &#62; </span><a href="3593">2008/2</a><span class="separator"> &#62; </span><a href="3793">Articles</a><span class="separator"> &#62; </span><strong class="current">Online Discussions in China: The ...</strong></p>     </div><!-- #breadcrumb -->     <div id="outerWrapper">       <div id="wrapper">         <div id="toolbox">           <form id="search" action="http://search.revues.org" method="get">             <p>               <input type="text" id="q" name="q" value="Search" />               <input type="hidden" name="ul" value="http://chinaperspectives.revues.org" />               <button type="submit" title="Search">Search</button>             </p>           </form>         </div>
-
-        <section id="content">
-        
-<script type="text/javascript" src="/js/nicEdit.js"></script>
-<script type="text/javascript" src="/js/jquery.multiselect.min.js"></script>
-<script type="text/javascript">
+ 
     
 var circle_name = 'Research SpotLight';
 var user_id     = '7b2540fcebd1e8b627aa6f52f70001a2';

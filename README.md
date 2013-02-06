@@ -32,62 +32,7 @@
 
   <body>
 
-    <!-- Topbar
-    ================================================== -->
-    <div class="topbar">
-      <div class="topbar-inner">
-        <!-- div class="container" -->
-          
-          <h3><a href="/stream">Policy Circles</a></h3>
-          
-          <ul class="nav">
-              <li><a href="/profiles">Profiles</a></li>
-              <li><a href="/events">Events</a></li>
-              
-              <li class="dropdown"><a href="#" class="dropdown-toggle">Circles</a>
-  	<ul id="circle-menu" class="dropdown-menu">
-		  <li><a href="/circle/edit/">New Circle...</a></li>
-		  <li><a id="user_id" name="7b2540fcebd1e8b627aa6f52f70001a2"></a><a id="get-circles" href="/circles/">View Circles</a></li>
-		  		  <!-- li>
-		    <div class="input input-prepend menu-checkbox">
-		      <label class="add-on">Your Private Circles <input id="view-private" type="checkbox" /></label>
-		    </div>
-		  </li>
-		  <li>
-		    <div class="input input-prepend menu-checkbox">
-		      <label class="add-on">Your Public Circles <input id="view-public" type="checkbox" /></label>
-		    </div>
-		  </li>
-		  <li>
-		    <div class="input input-prepend menu-checkbox">
-		      <label class="add-on">All Public Circles <input id="view-all" type="checkbox" /></label>
-		    </div>
-		  </li -->
-		  		</ul>
-	      </li>
-          
-          </ul>
-          <ul class="nav secondary-nav">
-              
-              
-                <li class="dropdown">
-                <a href="#" class="dropdown-toggle">Trevor Banga</a>
-                  <ul class="dropdown-menu">
-                    <li><a href="/profile/edit/Trevor Banga">edit profile</a></li>
-                    <li><a href="/switch_user">switch user</a></li>
-                    <li><a href="/logout">Logout</a></li>
-                </ul>
-              
-          </ul>
-        <!-- /div -->
-      </div>
-    </div>
-
-    <div class="container">
-        <section id="notify">
-        
-        
-        </section>
+  </head>   <body id="article-3803" class="textes article">     <div id="access"><a href="#nav">Skip to navigation</a>&#160;&#8211; <a href="http://chinaperspectives.revues.org/?page=map">Site map</a></div><!-- #access -->     <div id="header">       <div id="language"><a href="http://perspectiveschinoises.revues.org/" xml:lang="fr" lang="fr">Perspectives Chinoises</a></div>       <h1 id="siteName"><a title="Home" href="http://chinaperspectives.revues.org">China perpectives</a></h1>     </div><!-- #header -->     <div id="breadcrumb">       <form action="http://chinaperspectives.revues.org/3803" method="get" class="autoSubmit">         <p>           <label for="selectLang">Choose language</label>           <select id="selectLang" name="lang">             <option value="en" title="English" selected="selected">English</option>             <option value="es" title="Español">Español</option>             <option value="fr" title="Français">Français</option>           </select>           <input type="submit" value="OK" class="hidden" />         </p>       </form>       <p id="crumbs"><a class="home" href="index.html">Home</a><span class="separator"> &#62; </span><a href="2">Numéros</a><span class="separator"> &#62; </span><a href="3593">2008/2</a><span class="separator"> &#62; </span><a href="3793">Articles</a><span class="separator"> &#62; </span><strong class="current">Online Discussions in China: The ...</strong></p>     </div><!-- #breadcrumb -->     <div id="outerWrapper">       <div id="wrapper">         <div id="toolbox">           <form id="search" action="http://search.revues.org" method="get">             <p>               <input type="text" id="q" name="q" value="Search" />               <input type="hidden" name="ul" value="http://chinaperspectives.revues.org" />               <button type="submit" title="Search">Search</button>             </p>           </form>         </div>
 
         <section id="content">
         
